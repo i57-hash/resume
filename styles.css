@@ -1,0 +1,30 @@
+*{
+    font-family: Lilex, monospace;
+}
+h1,h4{
+    text-align: center;
+}
+.ed{
+    margin:20px auto;
+    font-size: 15px;
+}
+table, th, td{
+    margin:20px auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 10px;
+    vertical-align: top;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main{
+    flex: 1;
+}
+footer{
+    text-align: center;
+}
