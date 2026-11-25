@@ -1,9 +1,5 @@
 *{
     font-family: Lilex, monospace;
-    box-sizing: border-box;
-    margin: 0 auto;
-    padding: 1rem;
-    line-height: 1.6;
 }
 h1,h4{
     text-align: center;
