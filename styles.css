@@ -1,19 +1,7 @@
 :root {
     color-scheme: light dark;
-    --bg: #ffffff;
-    --text: #111111;
-    --link: #0000ee;
-    --border: #111111;
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --bg: #0f0f0f;
-        --text: #e8e8e8;
-        --link: #6ea8fe;
-        --border: #e8e8e8;
-    }
-}
 *{
     font-family: Lilex, monospace;
     box-sizing: border-box;
